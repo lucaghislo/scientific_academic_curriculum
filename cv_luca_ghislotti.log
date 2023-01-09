@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.4)  6 DEC 2022 13:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.4)  9 JAN 2023 21:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -464,30 +464,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 168--169
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 181--182
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
 
  []
 
 
-Overfull \hbox (0.32387pt too wide) in paragraph at lines 198--201
+Overfull \hbox (0.32387pt too wide) in paragraph at lines 201--204
 \OT1/cmr/m/n/10.95 Pursuant to the Leg-isla-tive De-cree (D.Lgs.) no. 196/2003 
 and the Reg-u-la-tion (UE) 2016/679,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 198--201
+Underfull \hbox (badness 10000) in paragraph at lines 201--204
 
  []
 
-
+[5] 
 AED: lastpage setting LastPage
-[5] (./cv_luca_ghislotti.aux)
+[6] (./cv_luca_ghislotti.aux)
 Package rerunfilecheck Info: File `cv_luca_ghislotti.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12786 strings out of 474971
- 255560 string characters out of 5780121
+ 12787 strings out of 474971
+ 255566 string characters out of 5780121
  584513 words of memory out of 5000000
  34126 multiletter control sequences out of 15000+600000
  478046 words of font info for 57 fonts, out of 8000000 for 9000
@@ -502,10 +502,10 @@ c/amsfonts/cm/cmr17.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmr8.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.
 pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><c:/t
 exlive/2022/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on cv_luca_ghislotti.pdf (5 pages, 147586 bytes).
+Output written on cv_luca_ghislotti.pdf (6 pages, 148035 bytes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
- 103 compressed objects within 2 object streams
- 39 named destinations out of 1000 (max. 500000)
+ 134 PDF objects out of 1000 (max. 8388607)
+ 106 compressed objects within 2 object streams
+ 40 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
